@@ -19,7 +19,8 @@ Automated tests to analyze insert, search, and delete operations.
 
 ### Prerequisites
 - Java Development Kit (JDK) 8 or newer.
-###Installation
+
+### Installation
 Clone the repository to your local machine:
 
    - git clone https://github.com/Koval1uk/BinaryTreeComplexity.git
